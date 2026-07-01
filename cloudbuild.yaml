@@ -13,7 +13,7 @@ steps:
   args:
   - run
   - --filename=gke.yaml
-  - --image=gcr.io/$PROJECT_ID/gcpdevops
+  - --image=gcr.io/$PROJECT_ID/gcpdevops:latest
   - --location=europe-north1-a
   - --cluster=gcp-devops-project
   - --namespace=gcp-devops-prod
