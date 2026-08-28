@@ -1,4 +1,4 @@
-# GCP DevOps Project
+# GCP Cloud Build Pipeline
 
 A hands-on CI/CD project built on Google Cloud Platform, covering everything from sprint planning through a fully automated, multi-environment deployment pipeline to Google Kubernetes Engine (GKE).
 
